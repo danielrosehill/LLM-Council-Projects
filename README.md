@@ -102,6 +102,18 @@ LLM Council Plus - Multi-model AI deliberation system with 3-stage council proce
 
 ---
 
+### [LLM-Council-Template](https://github.com/danielrosehill/LLM-Council-Template)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Template?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Template)
+
+Template based on Karpathy's llm-council, modified to use a single LLM with six personality-based system prompts (Logical Thinker, Creative Solver, Pessimist, Optimist, Connector, Unconventional) instead of multiple providers. Includes Typst PDF report and Edge TTS podcast digest outputs.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ### [the-llm-council](https://github.com/sherifkozman/the-llm-council)
 
 ![GitHub stars](https://img.shields.io/github/stars/sherifkozman/the-llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/sherifkozman/the-llm-council)
