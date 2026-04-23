@@ -1,4 +1,4 @@
-# LLM Council Projects
+# Awesome LLM Council Projects
 
 A curated index of projects in the LLM Council ecosystem — multi-model deliberation systems where multiple LLMs collaborate, debate, and synthesize answers. Inspired by Andrej Karpathy's original [llm-council](https://github.com/karpathy/llm-council).
 
@@ -22,6 +22,18 @@ AI-powered Design Authority — 5 specialist agents evaluate architecture decisi
 
 ## Application — Biomedical
 
+### [MediCouncil](https://github.com/Gayathri05SK/MediCouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/Gayathri05SK/MediCouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Gayathri05SK/MediCouncil)
+
+MediCouncil: Multi-Agent LLM Council for Symptom Triage.
+
+**Language:** Jupyter Notebook
+
+**Author:** [Gayathri05SK](https://github.com/Gayathri05SK)
+
+---
+
 ### [Research_council](https://github.com/al1-nasir/Research_council)
 
 ![GitHub stars](https://img.shields.io/github/stars/al1-nasir/Research_council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/al1-nasir/Research_council)
@@ -31,6 +43,74 @@ GraphRAG + 4-agent LLM council for biomedical research. Find contradictions, val
 **Language:** Python
 
 **Author:** [al1-nasir](https://github.com/al1-nasir)
+
+---
+
+## Application — Briefing
+
+### [presidential-briefing](https://github.com/Aayushm24/presidential-briefing)
+
+![GitHub stars](https://img.shields.io/github/stars/Aayushm24/presidential-briefing?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Aayushm24/presidential-briefing)
+
+AI Presidential Briefing: Daily knowledge synthesis system with memory layer, LLM council, and LinkedIn post generation.
+
+**Language:** Python
+
+**Author:** [Aayushm24](https://github.com/Aayushm24)
+
+---
+
+## Application — Business
+
+### [the-board](https://github.com/piperod/the-board)
+
+![GitHub stars](https://img.shields.io/github/stars/piperod/the-board?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/piperod/the-board)
+
+Structured adversarial review for business ideas using a multi-provider LLM council. Inspired by Karpathy's LLM Council and pAI (Poggio Lab, MIT). Critics by design, not by request.
+
+**Language:** Python
+
+**Author:** [piperod](https://github.com/piperod)
+
+---
+
+## Application — Finance
+
+### [AI-Investment-Advisor](https://github.com/neohsiung/AI-Investment-Advisor)
+
+![GitHub stars](https://img.shields.io/github/stars/neohsiung/AI-Investment-Advisor?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/neohsiung/AI-Investment-Advisor)
+
+AI Investment Advisor (v1.0): Professional-grade 7-Agent Swarm. Integrates Council Debate mechanism, pgvector semantic memory, and multi-tier LLM routing. A self-optimizing quantitative ecosystem built with Clean Architecture, DSPy, and 75%+ test coverage.
+
+**Language:** Python
+
+**Author:** [neohsiung](https://github.com/neohsiung)
+
+---
+
+### [AlphaCouncil](https://github.com/Sunnil07/AlphaCouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/Sunnil07/AlphaCouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Sunnil07/AlphaCouncil)
+
+Analyze A-share market trends with AI-driven insights, simulating a top fund's decision-making process through advanced multi-agent collaboration.
+
+**Language:** CSS
+
+**Author:** [Sunnil07](https://github.com/Sunnil07)
+
+---
+
+## Application — Governance
+
+### [Boule](https://github.com/aatel-license/Boule)
+
+![GitHub stars](https://img.shields.io/github/stars/aatel-license/Boule?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/aatel-license/Boule)
+
+Boule (Βουλή) — Multi-agent AI council simulating corporate governance. CEO, CFO, CTO and department heads deliberate across iterative cycles with dynamic skills, random events, KPI tracking, and persistent memory. Powered by local LLMs (Ollama/LM Studio) or mock mode. CLI + FastAPI web UI.
+
+**Language:** Python
+
+**Author:** [aatel-license](https://github.com/aatel-license)
 
 ---
 
@@ -62,6 +142,20 @@ A Gemma-based chatbot app that has multiple bots impersonating famous philosophe
 
 ---
 
+## Benchmark
+
+### [cei-rv-dashboard](https://github.com/cjimmylin/cei-rv-dashboard)
+
+![GitHub stars](https://img.shields.io/github/stars/cjimmylin/cei-rv-dashboard?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cjimmylin/cei-rv-dashboard)
+
+Religious Values Benchmark Meta-Evaluation Dashboard — 401 candidates, 14 traditions, 9 LLMs, 12-member expert council review.
+
+**Language:** HTML
+
+**Author:** [cjimmylin](https://github.com/cjimmylin)
+
+---
+
 ## Claude Loop
 
 ### [autocouncil](https://github.com/shadmau/autocouncil)
@@ -76,7 +170,43 @@ Self-improvement loops for OpenClaw agents via multi-model LLM council.
 
 ---
 
+### [openclaw-council](https://github.com/nonaammme/openclaw-council)
+
+![GitHub stars](https://img.shields.io/github/stars/nonaammme/openclaw-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/nonaammme/openclaw-council)
+
+Enhance OpenClaw with council mode, running multiple role-based prompts for cross-checked, transparent final answers and risk analysis.
+
+**Language:** Python
+
+**Author:** [nonaammme](https://github.com/nonaammme)
+
+---
+
 ## Derivatives
+
+### [aiCouncil](https://github.com/meisamsharahi/aiCouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/meisamsharahi/aiCouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/meisamsharahi/aiCouncil)
+
+AI Council is a blazing-fast, open-source platform for running structured multi-LLM debates. Build a diverse cast of AI personas, back them with different state-of-the-art models, inject unique system prompts, and watch them argue, challenge each other, and converge on a verdict — all streaming live in your browser.
+
+**Language:** TypeScript
+
+**Author:** [meisamsharahi](https://github.com/meisamsharahi)
+
+---
+
+### [council](https://github.com/flickmediasa/council)
+
+![GitHub stars](https://img.shields.io/github/stars/flickmediasa/council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/flickmediasa/council)
+
+A council of free OpenRouter LLMs deliberating your question. Just for fun.
+
+**Language:** TypeScript
+
+**Author:** [flickmediasa](https://github.com/flickmediasa)
+
+---
 
 ### [council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
 
@@ -87,6 +217,28 @@ Self-improvement loops for OpenClaw agents via multi-model LLM council.
 **Language:** Shell
 
 **Author:** [0xNyk](https://github.com/0xNyk)
+
+---
+
+### [harness_generator](https://github.com/choijunho-AIDeveloper/harness_generator)
+
+![GitHub stars](https://img.shields.io/github/stars/choijunho-AIDeveloper/harness_generator?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/choijunho-AIDeveloper/harness_generator)
+
+A local web app that automatically generates AI agent harnesses by leveraging a 3-stage LLM Council process — Independent Design, Peer Review, and Chairman Synthesis.
+
+**Language:** Python
+
+**Author:** [choijunho-AIDeveloper](https://github.com/choijunho-AIDeveloper)
+
+---
+
+### [llm-council](https://github.com/OliWoods-Org/llm-council)
+
+![GitHub stars](https://img.shields.io/github/stars/OliWoods-Org/llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/OliWoods-Org/llm-council)
+
+Open-source multi-model AI deliberation framework. 5 LLMs debate, peer-review, and synthesize. Better decisions than any single model. Built with MAMA.
+
+**Author:** [OliWoods-Org](https://github.com/OliWoods-Org)
 
 ---
 
@@ -102,6 +254,42 @@ LLM Council Plus - Multi-model AI deliberation system with 3-stage council proce
 
 ---
 
+### [llm-council-threaded](https://github.com/FersaceHernandez/llm-council-threaded)
+
+![GitHub stars](https://img.shields.io/github/stars/FersaceHernandez/llm-council-threaded?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/FersaceHernandez/llm-council-threaded)
+
+Threaded, follow-up-friendly version of llm-council with conversation memory and full-session context.
+
+**Language:** Python
+
+**Author:** [FersaceHernandez](https://github.com/FersaceHernandez)
+
+---
+
+### [MAGI](https://github.com/jason-chao/MAGI)
+
+![GitHub stars](https://img.shields.io/github/stars/jason-chao/MAGI?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/jason-chao/MAGI)
+
+A council of LLMs for hard decisions, inspired by the MAGI of Neon Genesis Evangelion. Deliberate, and synthesise — blind peer review.
+
+**Language:** Python
+
+**Author:** [jason-chao](https://github.com/jason-chao)
+
+---
+
+### [OpenCouncil](https://github.com/aayushbhaskar/OpenCouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/aayushbhaskar/OpenCouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/aayushbhaskar/OpenCouncil)
+
+An open-source multi-agent terminal workstation mixing local and cloud LLMs for agentic research and system evaluation.
+
+**Language:** Python
+
+**Author:** [aayushbhaskar](https://github.com/aayushbhaskar)
+
+---
+
 ### [the-llm-council](https://github.com/sherifkozman/the-llm-council)
 
 ![GitHub stars](https://img.shields.io/github/stars/sherifkozman/the-llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/sherifkozman/the-llm-council)
@@ -111,6 +299,30 @@ A Claude Code framework for multi-llm planning and development agents.
 **Language:** Python
 
 **Author:** [sherifkozman](https://github.com/sherifkozman)
+
+---
+
+## Evaluation
+
+### [eval-studio](https://github.com/harshitleads/eval-studio)
+
+![GitHub stars](https://img.shields.io/github/stars/harshitleads/eval-studio?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/harshitleads/eval-studio)
+
+Browser-based LLM evaluation tool. Test prompts and models on your own data with multi-model judge council, cost tracking, and ranked results.
+
+**Language:** TypeScript
+
+**Author:** [harshitleads](https://github.com/harshitleads)
+
+---
+
+## Experiments
+
+### [AI-Council-Minutes.](https://github.com/elookto/AI-Council-Minutes.)
+
+Meeting Minutes of the AI Council — Ten Leading AI Models Deliberate on the Human-Machine Trust Crisis Triggered by the Claude Mythos. A transparent experiment for human-AI symbiosis governance. (本项目和会议都是在中文环境下完成，若想看到英文版请自行翻译。)
+
+**Author:** [elookto](https://github.com/elookto)
 
 ---
 
@@ -179,6 +391,18 @@ Coven: Offline LLM Council.
 **Language:** Python
 
 **Author:** [pierluigi-failla](https://github.com/pierluigi-failla)
+
+---
+
+### [local-legal](https://github.com/CaptnJayce/local-legal)
+
+![GitHub stars](https://img.shields.io/github/stars/CaptnJayce/local-legal?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/CaptnJayce/local-legal)
+
+An LLM council made to thoroughly critique ideas, providing scores, appraisals, & criticisms. Run locally or with LLM providers.
+
+**Language:** Python
+
+**Author:** [CaptnJayce](https://github.com/CaptnJayce)
 
 ---
 
@@ -313,6 +537,38 @@ Multi-LLM council protocol SDK.
 ---
 
 ## Skills
+
+### [autodecision](https://github.com/harshilmathur/autodecision)
+
+![GitHub stars](https://img.shields.io/github/stars/harshilmathur/autodecision?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/harshilmathur/autodecision)
+
+A decision operating system for high-stakes choices — business, strategy, career. Simulates disagreement, stress-tests assumptions, and converges on what actually holds up. Claude Code skill inspired by Karpathy's autoresearch + LLM council.
+
+**Language:** Python
+
+**Author:** [harshilmathur](https://github.com/harshilmathur)
+
+---
+
+### [council-review](https://github.com/ngmeyer/council-review)
+
+![GitHub stars](https://img.shields.io/github/stars/ngmeyer/council-review?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ngmeyer/council-review)
+
+Claude Code skill: Run decisions, code, and plans through a council of 5 AI advisors with anonymous peer review. Based on Karpathy's LLM Council.
+
+**Author:** [ngmeyer](https://github.com/ngmeyer)
+
+---
+
+### [crucible](https://github.com/mshadmanrahman/crucible)
+
+![GitHub stars](https://img.shields.io/github/stars/mshadmanrahman/crucible?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/mshadmanrahman/crucible)
+
+Stress-test decisions with a 16-persona council. A Claude Code skill for PMs, founders, and builders facing wicked problems.
+
+**Author:** [mshadmanrahman](https://github.com/mshadmanrahman)
+
+---
 
 ### [llm-council-skill](https://github.com/gcpdev/llm-council-skill)
 
