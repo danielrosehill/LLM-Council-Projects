@@ -222,6 +222,18 @@ LLM Council app — grounded multi-model deliberation with peer review and synth
 
 ---
 
+### [LLM-Council-Homehunter](https://github.com/danielrosehill/LLM-Council-Homehunter)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Homehunter?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Homehunter)
+
+Domain-specific council for house and apartment hunting. User provides a free-text brief; a five-persona council (Mortgage Expert, Home-Ownership Project Expert, Renovation Specialist, Lifestyle Advocate, Risk Auditor) debates and cross-reviews, then a Chairman synthesises a Search Spec — with an explicit "Acceptable Compromises" section naming what to give up and why. Typst PDF output.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ### [LLM-Council-Template](https://github.com/danielrosehill/LLM-Council-Template)
 
 ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Template?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Template)
