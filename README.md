@@ -102,18 +102,6 @@ LLM Council Plus - Multi-model AI deliberation system with 3-stage council proce
 
 ---
 
-### [LLM-Council-Template](https://github.com/danielrosehill/LLM-Council-Template)
-
-![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Template?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Template)
-
-Template based on Karpathy's llm-council, modified to use a single LLM with six personality-based system prompts (Logical Thinker, Creative Solver, Pessimist, Optimist, Connector, Unconventional) instead of multiple providers. Includes Typst PDF report and Edge TTS podcast digest outputs.
-
-**Language:** Python
-
-**Author:** [danielrosehill](https://github.com/danielrosehill)
-
----
-
 ### [the-llm-council](https://github.com/sherifkozman/the-llm-council)
 
 ![GitHub stars](https://img.shields.io/github/stars/sherifkozman/the-llm-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/sherifkozman/the-llm-council)
@@ -206,6 +194,58 @@ Run a council of local LLMs that debate, critique, and synthesize — no API key
 
 ---
 
+## My Own Variations
+
+Projects by the index maintainer that riff on the LLM Council pattern.
+
+### [Hypothesis-Council](https://github.com/danielrosehill/Hypothesis-Council)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Hypothesis-Council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Hypothesis-Council)
+
+Hypothesis-testing variant of the LLM council pattern — 3 diverse models (Sonnet, Grok, MiniMax) via OpenRouter, Sonar grounding, Typst report.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+### [LLM-Council-Grounded](https://github.com/danielrosehill/LLM-Council-Grounded)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Grounded?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Grounded)
+
+LLM Council app — grounded multi-model deliberation with peer review and synthesis.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+### [LLM-Council-Template](https://github.com/danielrosehill/LLM-Council-Template)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Template?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Template)
+
+Template based on Karpathy's llm-council, modified to use a single LLM with six personality-based system prompts (Logical Thinker, Creative Solver, Pessimist, Optimist, Connector, Unconventional) instead of multiple providers. Includes Typst PDF report and Edge TTS podcast digest outputs.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
+### [LLM-Council-V3](https://github.com/danielrosehill/LLM-Council-V3)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-V3?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-V3)
+
+Voice-first, batch-oriented remix of Karpathy's llm-council. MP3 braindump → STT → cleanup → agent parses a shared Context plus Q1..Qn → each question fans out to a council of models (via OpenRouter) with review + Chairman synthesis → aggregator → Typst PDF report. Ramble in, typeset PDF out.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ## Original
 
 ### [llm-council](https://github.com/karpathy/llm-council)
@@ -273,16 +313,6 @@ A take on Andrej Karpathy's LLM Council, where you are the ultimate head chairma
 **Language:** Python
 
 **Author:** [laceyp99](https://github.com/laceyp99)
-
----
-
-### [LLM-Council-V3](https://github.com/danielrosehill/LLM-Council-V3)
-
-![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-V3?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-V3)
-
-Voice-first, batch-oriented remix of Karpathy's llm-council. MP3 braindump → STT → cleanup → agent parses a shared Context plus Q1..Qn → each question fans out to a council of models (via OpenRouter) with review + Chairman synthesis → aggregator → Typst PDF report. Ramble in, typeset PDF out.
-
-**Author:** [danielrosehill](https://github.com/danielrosehill)
 
 ---
 
