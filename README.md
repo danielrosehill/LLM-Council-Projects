@@ -210,6 +210,18 @@ Hypothesis-testing variant of the LLM council pattern — 3 diverse models (Sonn
 
 ---
 
+### [LLM-Council-Decide](https://github.com/danielrosehill/LLM-Council-Decide)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Decide?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Decide)
+
+Method-specific council that evaluates a user-presented decision through seven formal decision-making frameworks — Pros & Cons, Weighted Decision Matrix, 10/10/10, Pre-Mortem / Inversion, SWOT, Six Thinking Hats, and WRAP. One framework per council member; Chairman synthesises across frameworks into a decision dossier with convergent signal, named disagreements, confidence level, and kill criteria. Typst PDF output.
+
+**Language:** Python
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 ### [LLM-Council-Grounded](https://github.com/danielrosehill/LLM-Council-Grounded)
 
 ![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-Grounded?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-Grounded)
