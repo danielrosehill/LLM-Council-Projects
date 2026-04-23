@@ -276,4 +276,14 @@ A take on Andrej Karpathy's LLM Council, where you are the ultimate head chairma
 
 ---
 
+### [LLM-Council-V3](https://github.com/danielrosehill/LLM-Council-V3)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/LLM-Council-V3?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/LLM-Council-V3)
+
+Voice-first, batch-oriented remix of Karpathy's llm-council. MP3 braindump → STT → cleanup → agent parses a shared Context plus Q1..Qn → each question fans out to a council of models (via OpenRouter) with review + Chairman synthesis → aggregator → Typst PDF report. Ramble in, typeset PDF out.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 *Maintained by [Daniel Rosehill](https://danielrosehill.com)*
