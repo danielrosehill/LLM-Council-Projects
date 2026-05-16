@@ -884,4 +884,18 @@ A take on Andrej Karpathy's LLM Council, where you are the ultimate head chairma
 
 ---
 
+## Library / Framework
+
+### [ai-council](https://github.com/lfzds4399-cpu/ai-council)
+
+![GitHub stars](https://img.shields.io/github/stars/lfzds4399-cpu/ai-council?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/lfzds4399-cpu/ai-council)
+
+Python multi-voter consensus framework for LLM + heuristic decisions — composable Voters, weighted votes, optional veto, persistent JSON meeting log. Zero runtime dependencies, ~200 LoC, MIT. Intended as a building block for council implementations rather than a council itself.
+
+**Language:** Python
+
+**Author:** [lfzds4399-cpu](https://github.com/lfzds4399-cpu)
+
+---
+
 *Maintained by [Daniel Rosehill](https://danielrosehill.com)*
